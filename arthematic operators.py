@@ -1,0 +1,23 @@
+
+a=2
+b=5
+
+print("Addition of a and b:,a + b")#addition operator
+
+#substraction operator
+print("Substraction of a and b :",a - b)
+
+#multipication operator
+print("multipication of a and b :",a * b)
+
+#Division operator
+print("Division of a and b :",a / b)
+
+#modulos operator
+print("modulos of a and b :",a % b)
+
+#floor division
+print("floor division of a and b :",a // b)
+
+#exponentiation operator
+print("exponentiation of a and b :",a ** b)
