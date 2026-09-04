@@ -1,2 +1,8 @@
-# 2026-27_sec-21-56_pythonprogrammingcourse
-this repository contains python programming 
+# Python Programming Course
+
+Institution: NRIU
+Academic Year: 2026-27
+Course: Python Programming
+Section: sec-21
+Serial Number: 56
+Student Name: THANUSH 
